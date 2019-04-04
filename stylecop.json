@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "My Company",
+      "copyrightText": "Copyright My Company under MIT Licence. See https://opensource.org/licenses/mit-license.php."
+    }
+  }
+}
